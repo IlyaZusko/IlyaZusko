@@ -4,11 +4,11 @@
     <a href="https://t.me/newcower">
        <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:IlyaZusko1@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-critical?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-    </a>
     <a href="vk.com/brt66247">
        <img src="https://img.shields.io/badge/VKontakte-9cf?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    </a>
+    <a href="mailto:IlyaZusko1@gmail.com">
+       <img src="https://img.shields.io/badge/Instagram-blueviolet?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   </div>
   
