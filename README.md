@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
+  <div> 
+    <a href="">
+       <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    </a>
+  </div>
+  
+  
 </div>
-<h1 align="center" margin-top="-100" >Hi there, I'm <a href="https://t.me/newcower" target="_blank">Ilya</a> 
+<h1 align="center" margin-top="-100" >Hi there, I'm Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&center=true&width=1200&lines=Beginner+JS+developer+on+React.js%2C+React-Native" alt="Typing SVG" /></a>
 <h3>About me:</h3>
